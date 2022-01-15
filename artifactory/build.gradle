@@ -73,7 +73,7 @@ artifactory {
     }
     resolve {
         repository {
-            repoKey = 'gradle-dev'
+            repoKey = 'default-gradle-dev'
             maven = true
 
         }
